@@ -13,4 +13,4 @@ Don't be reckless with High voltage! It can lead to damage to property, injury o
 If you choose to build or replicate what you see in the video you are doing so at your own risk/responsibility! 
 
 
-- - SCHEMATIX -
+- SCHEMATIX
