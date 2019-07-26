@@ -5,7 +5,7 @@ The issue is most RCD response testers are in the $$$ to $$$$ price range. I wan
 offering acceptable accuracy. On that subject, you can expect in a 100ms test duration a reading between 98~108. 
 Or simply put, a 10% margin of error.
 
-Build Video: https://www.youtube.com/watch?v=pfqEXsrcA4g
+Build Video: COMING SOON!
 
 Please be aware this circuit uses high voltage AC & DC power. 
 Please exercise caution when the circuit is powered & take appropriate safety precautions. 
