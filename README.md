@@ -7,4 +7,10 @@ Or simply put, a 10% margin of error.
 
 Build Video: https://www.youtube.com/watch?v=pfqEXsrcA4g
 
-- SCHEMATIX -
+Please be aware this circuit uses high voltage AC & DC power. 
+Please exercise caution when the circuit is powered & take appropriate safety precautions. 
+Don't be reckless with High voltage! It can lead to damage to property, injury or even a fatal shock. 
+If you choose to build or replicate what you see in the video you are doing so at your own risk/responsibility! 
+
+
+- - SCHEMATIX -
